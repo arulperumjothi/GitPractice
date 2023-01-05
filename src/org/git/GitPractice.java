@@ -7,6 +7,10 @@ public class GitPractice {
 	public void java() {
        System.out.println("Java Course");		
 	}
+	public void selenium() {
+       System.out.println("Selenium");
+		
+	}
 	
 	
 	
